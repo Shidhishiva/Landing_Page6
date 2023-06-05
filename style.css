@@ -22,7 +22,7 @@ html {
 .landing {
   width: 95%;
   height: 90%;
-  background: linear-gradient(to right bottom, #ad0240, #2d4899 70%);
+  background: linear-gradient(to right bottom, #ad0240,  #2e4053  70%);
   box-shadow: 0 1rem 5rem rgba(0, 0, 0, 0.2);
   border-radius: 1rem;
   position: relative;
@@ -35,7 +35,7 @@ html {
   position: absolute;
   top: -10%;
   left: -5%;
-  background: linear-gradient(#c50a58, #4a53a8);
+  background: linear-gradient(#c50a58,  #2e4053 );
   border-radius: 0 50% 50% 0;
   opacity: 0.5;
   box-shadow: 0 1rem 5rem rgba(0, 0, 0, 0.5);
@@ -47,7 +47,7 @@ html {
   position: absolute;
   top: -10%;
   left: -15%;
-  background: linear-gradient(#f33f8a, #4f5cc2 40%);
+  background: linear-gradient(#f33f8a,  #f6ae2d, 40%);
   border-radius: 0 50% 50% 0;
   opacity: 0.5;
   box-shadow: 0 1rem 5rem rgba(0, 0, 0, 0.5);
@@ -59,7 +59,7 @@ html {
   position: absolute;
   top: -10%;
   left: -25%;
-  background: linear-gradient(to right, #e9af5a, #eb5584);
+  background: linear-gradient(to right, #e9af5a, #ff6600);
   border-radius: 0 50% 50% 0;
   box-shadow: 0 1rem 5rem rgba(0, 0, 0, 0.5);
   overflow: hidden;
@@ -68,7 +68,7 @@ html {
 .inner-layer {
   width: 100%;
   height: 100%;
-  background: linear-gradient(to top right, #eec245, #eb1666);
+  background: linear-gradient(to top right, #eec245, #266d07);
   transform: translate(30rem, 15rem);
   border-radius: 50%;
 }
@@ -131,7 +131,7 @@ html {
 .banner button i {
   width: 30%;
   height: 100%;
-  background-color: #eec245;
+  background-color: #67ee45;
   border-radius: 0 0.7rem 0.7rem 0;
   display: flex;
   justify-content: center;
@@ -155,7 +155,7 @@ html {
   display: block;
   font-size: 6rem;
   text-transform: uppercase;
-  background: linear-gradient(#ff815b, #f44d7c 90%);
+  background: linear-gradient(#ee11d8, #f44d7f 90%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
